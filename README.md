@@ -1,3 +1,9 @@
+
+## A ReactJS project. 
+Based on Squarespace, an enhanced website version created with React JS. The original webpage is vico.co.nz and the new propose version is https://vico-16ab8.firebaseapp.com.
+
+<img src="vico.PNG" width="1000" >
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
