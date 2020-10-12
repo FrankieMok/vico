@@ -1,6 +1,6 @@
 
 ## A ReactJS project. 
-Based on Squarespace, an enhanced website version created with React JS. The original webpage is vico.co.nz and the new propose version is https://vico-16ab8.firebaseapp.com.
+Based on Squarespace, an enhanced website version created with React JS. The original webpage is https://vico.co.nz and the new propose version is https://vico-16ab8.firebaseapp.com.
 
 <img src="vico.PNG" width="1000" >
 
