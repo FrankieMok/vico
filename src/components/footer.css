@@ -1,0 +1,21 @@
+.footer-container {
+  width: 100vw;
+  height: 150px;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #353535;
+  color: white;
+  text-align: center;
+  align-items: center;
+}
+
+.footer-img {
+  width: 100px;
+  background-color: white;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.footer-symbols {
+  margin: 0 10px;
+}

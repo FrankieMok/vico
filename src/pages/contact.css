@@ -1,0 +1,44 @@
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  widows: 60vw;
+
+  padding: 40px;
+}
+
+.contact-header {
+  padding: 30px;
+}
+
+.contact-form-container {
+  width: 50vw;
+  margin: 30px auto;
+  display: flex;
+  justify-content: center;
+}
+
+.contact-name {
+  display: flex;
+}
+
+.contact-form {
+  font-size: 0.8rem;
+}
+.contact-fill {
+  display: grid;
+  padding-bottom: 20px;
+  padding-right: 10px;
+}
+
+.contact-btn {
+  padding: 10px;
+  border-radius: 10px;
+  background: black;
+  color: white;
+}
+
+.contact-btn:hover {
+  opacity: 0.6;
+}

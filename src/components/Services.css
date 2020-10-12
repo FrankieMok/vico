@@ -1,0 +1,46 @@
+/* services */
+.services {
+  padding: 1.5rem 0;
+}
+.services {
+  background: rgb(232, 247, 232);
+  text-align: center;
+}
+.services-center {
+  width: 90vw;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(235px, 1fr));
+  grid-row-gap: 2rem;
+  grid-column-gap: 60px;
+}
+.service span {
+  display: inline-block;
+  color: green;
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+.services h6 {
+  letter-spacing: 2px;
+  font-size: 1.3rem;
+  text-transform: capitalize;
+}
+.services p {
+  width: 80%;
+  margin: 0 auto;
+  text-align: justify;
+}
+
+@media screen and (min-width: 792px) {
+  .services-center {
+    width: 95vw;
+    max-width: 1170px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .services p {
+    width: 100%;
+  }
+}
+/*end of services */
