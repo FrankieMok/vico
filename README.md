@@ -2,7 +2,27 @@
 ## A ReactJS project. 
 Based on Squarespace, an enhanced website version created with React JS. The original webpage is https://vico.co.nz and the new propose version is https://vico-16ab8.firebaseapp.com.
 
-<img src="vico.PNG" width="1000" >
+<img src="vico.PNG" width="800" >
+
+## Login:
+You can login with Email: wing@gmail.com, Password: 123456789  or register a new user.
+<img src="img/login.PNG" width="800" >
+
+Extra products "VIP" will display after login.
+
+<img src="img/member_VIP.PNG" width="800" >
+
+## Admin page:
+Specific Admin page at: https://vico-16ab8.firebaseapp.com/admin, this require specific Admin user authorization.
+
+<img src="img/Admin_login.PNG" width="800" >
+
+Admin GUI can add extra products
+
+<img src="img/Admin.PNG" width="800" >
+
+
+##
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
